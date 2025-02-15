@@ -26,18 +26,21 @@ The Olympics Analysis and Prediction System is designed to leverage machine lear
 ## System Architecture
 <!--Embed the system architecture diagram as shown below-->
 
-![Screenshot 2023-11-25 133637](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/a60c11f3-0a11-47fb-ac89-755d5f45c995)
+![Architecture Diagram](https://github.com/KATHIR1611/Projectwork2/blob/main/Screenshot%202025-02-14%20191412.png)
 
 
-## Output
+## Output 
 
 <!--Embed the Output picture at respective places as shown below as shown below-->
-#### Output1 - Name of the output
 
-![Screenshot 2023-11-25 134037](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/8c2b6b5c-5ed2-4ec4-b18e-5b6625402c16)
+![Output 1](https://github.com/KATHIR1611/Projectwork2/blob/main/Screenshot%202025-02-15%20113341.png)
 
-#### Output2 - Name of the output
-![Screenshot 2023-11-25 134253](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/5e05c981-05ca-4aaa-aea2-d918dcf25cb7)
+
+![Output 2](https://github.com/KATHIR1611/Projectwork2/blob/main/Screenshot%202025-02-15%20113434.png)
+
+
+![Output 3](https://github.com/KATHIR1611/Projectwork2/blob/main/Screenshot%202025-02-15%20113548.png)
+
 
 The model's prediction accuracy (e.g., 85-90%) based on validation datasets.
 
